@@ -1,0 +1,21 @@
+{
+  "name": "personal-site",
+  "version": "1.0.0",
+  "description": "This is (or eventually will be) and awesome personal site.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dfigueroa87/personal-site"
+  },
+  "keywords": [
+    "personal",
+    "david",
+    "figueroa"
+  ],
+  "author": "David Figueroa",
+  "license": "ISC"
+}
